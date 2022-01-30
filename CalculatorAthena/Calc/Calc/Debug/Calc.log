@@ -1,0 +1,5 @@
+﻿  StringToResult.cpp
+C:\Users\User\Desktop\Calculator\Calc\Calc\StringToResult.cpp(51,69): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\Calculator\Calc\Calc\StringToResult.cpp(53,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\Calculator\Calc\Calc\StringToResult.cpp(77): warning C4715: 'StringToResult::solve': not all control paths return a value
+  Calc.vcxproj -> C:\Users\User\Desktop\Calculator\Calc\Debug\Calc.exe
